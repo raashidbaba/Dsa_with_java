@@ -10,5 +10,8 @@ public class Main {
         System.out.print("please enter some input");
         int rollNumb = scanner.nextInt();
         System.out.println("this is my roll no" + rollNumb);
+        int id = scanner.nextInt();
+        System.out.println("this is my id"+ id);
+        
     }
 }
