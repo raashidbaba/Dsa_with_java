@@ -12,6 +12,7 @@ public class Main {
         System.out.println("this is my roll no" + rollNumb);
         int id = scanner.nextInt();
         System.out.println("this is my id"+ id);
-        
+        int value = (int) scanner.nextDouble();
+        System.out.println("print my value" + value);
     }
 }
